@@ -2,12 +2,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
-<img src='./src/assets/template-a.png'>
-
 ## Deployment
 
 Navigate to `https://prueba-kunder-angular.herokuapp.com/`.
 
+## Views
+
+### View of banner company:
+<img src='https://github.com/heraldofortuna/prueba-kunder-angular/tree/main/src/assets/template-1.png' alt='Banner company'>
+
+### View of cellphone model:
+<img src='https://github.com/heraldofortuna/prueba-kunder-angular/tree/main/src/assets/template-2.png' alt='Cellphone model'>
+
+### View of No banner:
+<img src='https://github.com/heraldofortuna/prueba-kunder-angular/tree/main/src/assets/template-3.png' alt='No banner'>
 
 ## Build
 
