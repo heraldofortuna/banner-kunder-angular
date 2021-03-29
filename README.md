@@ -9,18 +9,16 @@ Navigate to `https://prueba-kunder-angular.herokuapp.com/`.
 ## Views
 
 ### View of banner company:
-<img src='https://github.com/heraldofortuna/prueba-kunder-angular/tree/main/src/assets/template-1.PNG'
- alt='Banner company'>
 
-![Alt text](https://github.com/heraldofortuna/prueba-kunder-angular/tree/main/src/assets/template-1.png "Optional title")
-
-![alt text](https://github.com/heraldofortuna/prueba-kunder-angular/blob/main/src/assets/template-1.PNG?raw=true)
+![Banner company](https://github.com/heraldofortuna/prueba-kunder-angular/blob/main/src/assets/template-1.PNG?raw=true)
 
 ### View of cellphone model:
-<img src='https://github.com/heraldofortuna/prueba-kunder-angular/tree/main/src/assets/template-2.PNG' alt='Cellphone model'>
+
+![Cellphone model](https://github.com/heraldofortuna/prueba-kunder-angular/blob/main/src/assets/template-2.PNG?raw=true)
 
 ### View of No banner:
-<img src='https://github.com/heraldofortuna/prueba-kunder-angular/tree/main/src/assets/template-3.PNG' alt='No banner'>
+
+![No banner](https://github.com/heraldofortuna/prueba-kunder-angular/blob/main/src/assets/template-3.PNG?raw=true)
 
 ## Build
 
