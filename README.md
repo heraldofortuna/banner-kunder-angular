@@ -14,7 +14,7 @@ Navigate to `https://prueba-kunder-angular.herokuapp.com/`.
 
 ![Alt text](https://github.com/heraldofortuna/prueba-kunder-angular/tree/main/src/assets/template-1.png "Optional title")
 
-![alt text](https://github.com/heraldofortuna/prueba-kunder-angular/blob/main/template-1.PNG?raw=true)
+![alt text](https://github.com/heraldofortuna/prueba-kunder-angular/blob/main/src/assets/template-1.PNG?raw=true)
 
 ### View of cellphone model:
 <img src='https://github.com/heraldofortuna/prueba-kunder-angular/tree/main/src/assets/template-2.PNG' alt='Cellphone model'>
