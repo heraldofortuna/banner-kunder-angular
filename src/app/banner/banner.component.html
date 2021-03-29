@@ -1,0 +1,26 @@
+<section *ngIf="show; else notShow">
+  <div
+    *ngIf="type === 'plan'"
+    class="banner"
+    [ngStyle]="{ background: 'url(' + backgroundImage + ')' }"
+  >
+    <p>{{ description }}</p>
+    <a href="{{ link }}" target="_blanck">{{ buttonText }}</a>
+  </div>
+
+  <div
+    *ngIf="type === 'cellphone'"
+    class="banner"
+    style="background-color: #42e2b8"
+  >
+    <img [attr.src]="image" alt="Holaaaa" />
+    <div>
+      <h2>{{ name }}</h2>
+      <p>{{ description }}</p>
+    </div>
+  </div>
+</section>
+
+<ng-template #notShow
+  ><section><h1>Not banner!</h1></section></ng-template
+>
