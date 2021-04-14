@@ -1,7 +1,5 @@
 # Banner Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
-
 ![Banner company](https://github.com/heraldofortuna/prueba-kunder-angular/blob/main/src/assets/template-1.PNG?raw=true)
 ![Cellphone model](https://github.com/heraldofortuna/prueba-kunder-angular/blob/main/src/assets/template-2.PNG?raw=true)
 
