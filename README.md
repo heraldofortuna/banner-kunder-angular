@@ -101,4 +101,4 @@ SOFTWARE.
 - GitHub - [heraldofortuna](https://github.com/heraldofortuna)
 - Linkedin - [heraldofortuna](https://www.linkedin.com/in/heraldo-fortuna/)
 
-[Go up](#pokedex-react)
+[Go up](#banner-angular)
