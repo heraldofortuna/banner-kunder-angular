@@ -3,72 +3,71 @@
 ![Banner company](https://github.com/heraldofortuna/prueba-kunder-angular/blob/main/src/assets/template-1.PNG?raw=true)
 ![Cellphone model](https://github.com/heraldofortuna/prueba-kunder-angular/blob/main/src/assets/template-2.PNG?raw=true)
 
-> Vistas del proyecto.
+> Screenshot
 
 ---
 
-### Tabla de Contenidos
+## Table of Contents
 
-- [Descripción](#descripción)
-- [¿Cómo usarlo?](#¿-cómo-usarlo-?)
-- [Referencias](#referencias)
-- [Licencia](#licencia)
-- [Sobre el autor](#sobre-el-autor)
+- [Description](#description)
+- [How to use?](#how-to-use)
+- [References](#references)
+- [License](#license)
+- [Author](#author)
 
 ---
 
-## Descripción
+## Description
 
-Banner publicitario que muestra distintos productos de forma dinámica.
+Advertising banner showing different products dynamically.
 
-#### Tecnologías
+### Technologies
 
 - Angular
 - TypeScript
 
-[Volver arriba](#banner-angular)
+[Go up](#banner-angular)
 
 ---
 
-## ¿Cómo usarlo?
+## How to use?
 
-#### Actualización:
+### Upgrade:
 
-Ingresa y corre en tu consola la siguiente sentencia
+Enter and run the following sentence in your console:
 
 ```html
 ng update
-```
 
-#### Corre el proyecto:
+### Run the project:
 
-Ingresa y corre en tu consola
+Enter and run on your console:
 
 ```html
 ng serve
 ```
 
-#### Refencia de la API
+### API References
 
 ```html
 https://hack.kunderlabs.com/exam/telecom/api/products/new
 ```
 
-[Volver arriba](#banner-angular)
+[Go up](#banner-angular)
 
 ---
 
-## Referencias
+## References
 
 ```html
 https://angular.io/docs
 ```
 
-[Volver arriba](#banner-angular)
+[Go up](#banner-angular)
 
 ---
 
-## Licencia
+## License
 
 MIT License
 
@@ -92,14 +91,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Volver arriba](#banner-angular)
+[Go up](#banner-angular)
 
 ---
 
-## Sobre el autor
+## Author
 
 - Twitter - [@heraldofortuna](https://twitter.com/heraldofortuna)
 - GitHub - [heraldofortuna](https://github.com/heraldofortuna)
 - Linkedin - [heraldofortuna](https://www.linkedin.com/in/heraldo-fortuna/)
 
-[Back To The Top](#pokedex-react)
+[Go up](#pokedex-react)
